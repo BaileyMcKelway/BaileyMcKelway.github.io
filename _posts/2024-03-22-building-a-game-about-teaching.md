@@ -6,12 +6,19 @@ Recently I released the beta version of my game Classroom Simulator. It is a gam
 
 The Beta version is currently out and free to play here: https://classroom-simulator.vercel.app/
 
-After posting the beta a couple people mentioned I should write a blog about how I created the game so that is what I am doing now. In this blog I will go into the reasons why
-I think gaming is an interesting space for AI and why I decided to build a game about teaching.
+After posting the beta a couple people mentioned I should write a blog about how I created the game so that is what I am doing now. In this blog I will go into the reasons why I think gaming is an interesting space for exploring AI and why I decided to build a game about teaching.
 
 
-- When new technology emerges there is a need for people to explore this technology. Gaming is a great vehicle for that. (Add examples of this through history)
+When new technology emerges there is a need for people to explore this technology. Gaming is a great vehicle for that. There are examples of this throughout history such as
+advancements in personal computing during the 1970s and 1980s which led to games like Pong and Pac Man. The internet led to the rise of multiplayer games like
+World of Warcraft and Doom. Mobile technology led to games like Angry Birds and Candy Crush. Gaming has always gone hand in hand with advancements in technology and allowed for people to explore the technology.
 
+With the advancements in large lanuage models this opens up a new area to be explored. The most popular comsumer applications being chatbots such as Replika and character.ai.
+The appeal of these apps is that they allow for people to simulate relationships they would not have access to.
+
+Using LLMs models allows for the opportunity to explore a game mechanic that has not yet existed, teaching! Teaching at it's core is the statement of an idea and then the comprehending of that idea
+or the lack of comprehending. LLMs allow for the generation of dialogue based on whatever the user decides to teach their students. Want to have a conversation with a student who now believes that Tom Cruise is a 
+hippo who lives in the New York Zoo? Go ahead! Your students will hang onto every word of your teachings Professor! Simulate any idea that you want.
 
 - LLM allow for people to experience relationships or situations that were not possible before.
 - Teaching is a game mechanic that didn't exist before LLMs. I like it because it brings the relationship an engineer has with a model up to a user level. It allows for the simulation of ideas. Teaching allows for a change in perspective for a student.
