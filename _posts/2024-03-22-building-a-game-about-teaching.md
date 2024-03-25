@@ -1,9 +1,28 @@
 Building a game about teaching: Part 1
 
+
+Recently I released the beta version of my game Classroom Simulator. It is a game about teaching. You play as a Professor teaching a free elective class at a university and the goal of the game is to keep your students from failing the course. Each student is an AI agent that has their own distinct personality and interests.
+
+
 The Beta version is currently out and free to play here: https://classroom-simulator.vercel.app/
 
-Recently I released the beta version of my game Classroom Simulator. It is a game about teaching. You play as a Professor teaching a free elective class at a university and the goal of the game is to keep your
-students from failing the course. Each student is an AI agent that has their own distinct personality and interests. Teaching them their interests improves the relationship you have with that student. This is represented by
+After posting the beta a couple people mentioned I should write a blog about how I created the game so that is what I am doing now. In this blog I will go into the reasons why
+I think gaming is an interesting space for AI and why I decided to build a game about teaching.
+
+
+- When new technology emerges there is a need for people to explore this technology. Gaming is a great vehicle for that. (Add examples of this through history)
+
+
+- LLM allow for people to experience relationships or situations that were not possible before.
+- Teaching is a game mechanic that didn't exist before LLMs. I like it because it brings the relationship an engineer has with a model up to a user level. It allows for the simulation of ideas. Teaching allows for a change in perspective for a student.
+
+
+
+
+
+
+
+ Teaching them their interests improves the relationship you have with that student. This is represented by
 a mechanic in the game called trust. A low trust value results in the student being more skeptical of you and needing more time (a sparse resource) to be invested in order to teach them. A high trust value results in the opposite.
 Less time needing to be invested and total belief in whatever you teach them. With gaining the students trust you will not have enough time to teach all of them which results in them failing.
 
